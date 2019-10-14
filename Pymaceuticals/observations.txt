@@ -1,0 +1,11 @@
+Observations:
+
+1) The drug Capomulin appears to reduce the size of tumors over the course of the treatment, performing better than Infubinol, Ketapril and a Placebo. 
+
+2) Capomulin and Infubinol seem to slow the metastatic spread, but Infubinol also appears to have a higher mortality rate than all the other drugs tested, including a placebo. Capomulin has the lowest mortality rate.
+
+3) From this simple analysis, it appears that Capomulin is the best drug to use to slow metastatic spread, reduce tumor volume, and has the highest survival rate, on average.
+
+---------------
+
+I need more time to finish the last bar chart :(
