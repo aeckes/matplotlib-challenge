@@ -6,6 +6,8 @@ Observations:
 
 3) From this simple analysis, it appears that Capomulin is the best drug to use to slow metastatic spread, reduce tumor volume, and has the highest survival rate, on average.
 
+4) Standard errors are not visible in my charts, and looking at the data, they do appear to be very small.  When I use a different marker, I can hardly see the range.
+
 ---------------
 
-I need more time to finish the last bar chart :(
+I need more time to finish the last bar chart and will do so by Tuesday evening 10/15
