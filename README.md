@@ -1,3 +1,3 @@
 # matplotlib-challenge
 
-See Pymeceuticals/observations.txt for my observations on the study
+See Pymaceuticals/observations.txt for my observations on the study
